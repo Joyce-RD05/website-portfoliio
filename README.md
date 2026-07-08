@@ -25,20 +25,6 @@ The website includes:
 
 ---
 
-## Project Structure
-
-```
-portfolio-website/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── assets/
-```
-
----
-
 ## Future Improvements
 
 - Add more engineering projects
